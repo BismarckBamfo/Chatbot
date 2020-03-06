@@ -4,8 +4,7 @@ from chatterbot.trainers import ChatterBotCorpusTrainer
 
 app = Flask(__name__)
 
-english_bot = ChatBot("English Bot", 
-                     storage_adapter = "chatterbot.storage.MongoDatabaseAdapter")
+english_bot = ChatBot("English Bot")
 trainer = ChatterBotCorpusTrainer(english_bot)
 trainer.train("chatterbot.corpus.english")
 
