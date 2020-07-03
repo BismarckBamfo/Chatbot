@@ -1,4 +1,5 @@
-## Flask-Chatbot
+## Built with [ChatterBot](https://github.com/gunthercox/ChatterBot) using Flask.
+
 
 - Run `pip install -r requirements.txt`
 - Run `python app.py`
