@@ -1,2 +1,2 @@
 # GyimiChatbot
-A GyimiChatbot with no nice UI.
+A chatbot in flask built with chatterbot.
