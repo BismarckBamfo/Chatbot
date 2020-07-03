@@ -1,5 +1,5 @@
 body {
-    font-family: Garamond;
+    font-family: Arial;
 }
 
 h1 {
@@ -54,9 +54,9 @@ h3 {
 }
 
 .userText span {
-    background-color: #009688;
+    background-color: green;
     padding: 10px;
-    border-radius: 2px;
+    border-radius: 20px;
 }
 
 .botText {
@@ -68,9 +68,9 @@ h3 {
 }
 
 .botText span {
-    background-color: #EF5350;
+    background-color: blue;
     padding: 10px;
-    border-radius: 2px;
+    border-radius: 20px;
 }
 
 #tidbit {
